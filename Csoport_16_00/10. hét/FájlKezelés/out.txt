@@ -1,0 +1,2 @@
+Új sor 
+Nincs sortörésPretty print 5,35
