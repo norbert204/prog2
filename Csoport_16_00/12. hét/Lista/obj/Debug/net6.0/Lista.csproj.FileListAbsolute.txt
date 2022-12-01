@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/bin/Debug/net6.0/Lista
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/bin/Debug/net6.0/Lista.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/bin/Debug/net6.0/Lista.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/bin/Debug/net6.0/Lista.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/bin/Debug/net6.0/Lista.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/refint/Lista.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/Lista.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/12. hét/Lista/obj/Debug/net6.0/ref/Lista.dll

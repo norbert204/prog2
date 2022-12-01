@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "muUOnNiz61vUZ7ZnSyCXHg7DYlimp99L8dbnMWIbHHZ+QFsCArTiwCKEppnUt5AeJCiwy/e5X86vht6dB9yICQ==",
+  "success": true,
+  "projectFilePath": "/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Lista/Lista.csproj",
+  "expectedPackageFiles": [
+    "/home/norbert/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

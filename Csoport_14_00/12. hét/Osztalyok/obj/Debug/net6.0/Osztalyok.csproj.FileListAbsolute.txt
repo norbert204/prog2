@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/bin/Debug/net6.0/Osztalyok
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/bin/Debug/net6.0/Osztalyok.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/bin/Debug/net6.0/Osztalyok.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/bin/Debug/net6.0/Osztalyok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/bin/Debug/net6.0/Osztalyok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/refint/Osztalyok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/Osztalyok.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/Osztalyok/obj/Debug/net6.0/ref/Osztalyok.dll

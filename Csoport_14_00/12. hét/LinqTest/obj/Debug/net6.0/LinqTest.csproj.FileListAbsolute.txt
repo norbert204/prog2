@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/bin/Debug/net6.0/LinqTest
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/bin/Debug/net6.0/LinqTest.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/bin/Debug/net6.0/LinqTest.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/bin/Debug/net6.0/LinqTest.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/bin/Debug/net6.0/LinqTest.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/refint/LinqTest.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/LinqTest.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/12. hét/LinqTest/obj/Debug/net6.0/ref/LinqTest.dll
