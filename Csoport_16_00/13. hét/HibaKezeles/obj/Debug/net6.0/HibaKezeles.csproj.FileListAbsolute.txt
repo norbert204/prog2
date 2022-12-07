@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/bin/Debug/net6.0/HibaKezeles
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/bin/Debug/net6.0/HibaKezeles.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/bin/Debug/net6.0/HibaKezeles.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/bin/Debug/net6.0/HibaKezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/bin/Debug/net6.0/HibaKezeles.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/refint/HibaKezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/HibaKezeles.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HibaKezeles/obj/Debug/net6.0/ref/HibaKezeles.dll

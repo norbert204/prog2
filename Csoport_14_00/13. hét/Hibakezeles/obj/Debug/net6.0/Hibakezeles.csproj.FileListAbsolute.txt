@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/bin/Debug/net6.0/Hibakezeles
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/bin/Debug/net6.0/Hibakezeles.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/bin/Debug/net6.0/Hibakezeles.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/bin/Debug/net6.0/Hibakezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/bin/Debug/net6.0/Hibakezeles.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/refint/Hibakezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/Hibakezeles.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/Hibakezeles/obj/Debug/net6.0/ref/Hibakezeles.dll

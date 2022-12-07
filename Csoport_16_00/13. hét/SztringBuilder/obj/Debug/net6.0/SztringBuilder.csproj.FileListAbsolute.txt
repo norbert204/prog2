@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/bin/Debug/net6.0/SztringBuilder
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/bin/Debug/net6.0/SztringBuilder.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/bin/Debug/net6.0/SztringBuilder.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/bin/Debug/net6.0/SztringBuilder.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/bin/Debug/net6.0/SztringBuilder.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/refint/SztringBuilder.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/SztringBuilder.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/SztringBuilder/obj/Debug/net6.0/ref/SztringBuilder.dll

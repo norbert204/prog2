@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/bin/Debug/net6.0/TombokMatrixok
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/bin/Debug/net6.0/TombokMatrixok.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/bin/Debug/net6.0/TombokMatrixok.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/bin/Debug/net6.0/TombokMatrixok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/bin/Debug/net6.0/TombokMatrixok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/refint/TombokMatrixok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/TombokMatrixok.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/TombokMatrixok/obj/Debug/net6.0/ref/TombokMatrixok.dll

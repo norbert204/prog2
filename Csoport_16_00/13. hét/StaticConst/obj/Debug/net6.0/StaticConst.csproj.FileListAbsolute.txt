@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/bin/Debug/net6.0/StaticConst
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/bin/Debug/net6.0/StaticConst.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/bin/Debug/net6.0/StaticConst.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/bin/Debug/net6.0/StaticConst.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/bin/Debug/net6.0/StaticConst.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/refint/StaticConst.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/StaticConst.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/StaticConst/obj/Debug/net6.0/ref/StaticConst.dll

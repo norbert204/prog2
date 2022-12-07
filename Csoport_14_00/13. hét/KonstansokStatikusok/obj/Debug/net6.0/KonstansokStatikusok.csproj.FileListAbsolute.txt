@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/bin/Debug/net6.0/KonstansokStatikusok
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/bin/Debug/net6.0/KonstansokStatikusok.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/bin/Debug/net6.0/KonstansokStatikusok.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/bin/Debug/net6.0/KonstansokStatikusok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/bin/Debug/net6.0/KonstansokStatikusok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/refint/KonstansokStatikusok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/KonstansokStatikusok.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/KonstansokStatikusok/obj/Debug/net6.0/ref/KonstansokStatikusok.dll

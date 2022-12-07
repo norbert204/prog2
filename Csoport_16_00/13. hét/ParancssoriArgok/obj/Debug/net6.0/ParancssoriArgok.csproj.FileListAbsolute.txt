@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/bin/Debug/net6.0/ParancssoriArgok
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/bin/Debug/net6.0/ParancssoriArgok.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/bin/Debug/net6.0/ParancssoriArgok.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/bin/Debug/net6.0/ParancssoriArgok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/bin/Debug/net6.0/ParancssoriArgok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/refint/ParancssoriArgok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ParancssoriArgok.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/ParancssoriArgok/obj/Debug/net6.0/ref/ParancssoriArgok.dll

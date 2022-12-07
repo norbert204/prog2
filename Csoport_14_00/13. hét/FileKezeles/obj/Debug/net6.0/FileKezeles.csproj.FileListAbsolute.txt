@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/bin/Debug/net6.0/FileKezeles
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/bin/Debug/net6.0/FileKezeles.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/bin/Debug/net6.0/FileKezeles.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/bin/Debug/net6.0/FileKezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/bin/Debug/net6.0/FileKezeles.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/refint/FileKezeles.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/FileKezeles.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/FileKezeles/obj/Debug/net6.0/ref/FileKezeles.dll

@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/bin/Debug/net6.0/PrancssoriArgumentumok
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/bin/Debug/net6.0/PrancssoriArgumentumok.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/bin/Debug/net6.0/PrancssoriArgumentumok.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/bin/Debug/net6.0/PrancssoriArgumentumok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/bin/Debug/net6.0/PrancssoriArgumentumok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/refint/PrancssoriArgumentumok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/PrancssoriArgumentumok.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/PrancssoriArgumentumok/obj/Debug/net6.0/ref/PrancssoriArgumentumok.dll

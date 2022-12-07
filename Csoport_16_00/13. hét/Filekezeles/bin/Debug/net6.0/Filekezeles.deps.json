@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Filekezeles/1.0.0": {
+        "runtime": {
+          "Filekezeles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filekezeles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/bin/Debug/net6.0/LinqPart2
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/bin/Debug/net6.0/LinqPart2.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/bin/Debug/net6.0/LinqPart2.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/bin/Debug/net6.0/LinqPart2.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/bin/Debug/net6.0/LinqPart2.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/refint/LinqPart2.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/LinqPart2.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/LinqPart2/obj/Debug/net6.0/ref/LinqPart2.dll

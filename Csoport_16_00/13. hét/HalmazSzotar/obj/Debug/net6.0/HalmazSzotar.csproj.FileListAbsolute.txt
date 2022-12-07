@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/bin/Debug/net6.0/HalmazSzotar
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/bin/Debug/net6.0/HalmazSzotar.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/bin/Debug/net6.0/HalmazSzotar.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/bin/Debug/net6.0/HalmazSzotar.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/bin/Debug/net6.0/HalmazSzotar.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/refint/HalmazSzotar.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/HalmazSzotar.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_16_00/13. hét/HalmazSzotar/obj/Debug/net6.0/ref/HalmazSzotar.dll

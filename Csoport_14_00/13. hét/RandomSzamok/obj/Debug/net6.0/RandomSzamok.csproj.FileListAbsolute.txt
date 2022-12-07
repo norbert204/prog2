@@ -1,0 +1,15 @@
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/bin/Debug/net6.0/RandomSzamok
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/bin/Debug/net6.0/RandomSzamok.deps.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/bin/Debug/net6.0/RandomSzamok.runtimeconfig.json
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/bin/Debug/net6.0/RandomSzamok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/bin/Debug/net6.0/RandomSzamok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.csproj.AssemblyReference.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.GeneratedMSBuildEditorConfig.editorconfig
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.AssemblyInfoInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.AssemblyInfo.cs
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.csproj.CoreCompileInputs.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/refint/RandomSzamok.dll
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.pdb
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/RandomSzamok.genruntimeconfig.cache
+/home/norbert/Dokumentumok/Tanítás/Csoport_14_00/13. hét/RandomSzamok/obj/Debug/net6.0/ref/RandomSzamok.dll
